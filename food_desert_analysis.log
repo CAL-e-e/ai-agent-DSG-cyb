@@ -1,0 +1,15 @@
+2025-09-30 17:24:43,336 - INFO - Loading data from census API
+2025-09-30 17:24:44,172 - INFO - Cleaning data...
+2025-09-30 17:24:44,178 - INFO - Data processing complete. Displaying results:
+2025-09-30 17:31:00,169 - INFO - Starting census data fetch
+2025-09-30 17:31:00,169 - INFO - Making API request to Census Bureau
+2025-09-30 17:31:01,015 - INFO - Creating DataFrame from response data
+2025-09-30 17:31:01,026 - INFO - Census data fetch completed successfully. DataFrame shape: (3221, 5)
+2025-09-30 17:31:09,824 - INFO - Starting census data fetch
+2025-09-30 17:31:09,824 - INFO - Making API request to Census Bureau
+2025-09-30 17:31:10,500 - INFO - Creating DataFrame from response data
+2025-09-30 17:31:10,507 - INFO - Census data fetch completed successfully. DataFrame shape: (3221, 5)
+2025-09-30 17:31:10,509 - INFO - Starting data cleaning process
+2025-09-30 17:31:10,509 - INFO - Initial DataFrame shape: (3221, 5)
+2025-09-30 17:31:10,514 - INFO - Final DataFrame shape after cleaning: (3221, 5)
+2025-09-30 17:31:10,514 - INFO - Data cleaning completed successfully
